@@ -7,13 +7,7 @@ KATE_G = { name:  "Kate Gompert", occupation: "None" }
 BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
-  assembled_aoh = {
-    DON-G,
-    JOELLE_VD,
-    PAT_M,
-    KATE_G,
-    BRUCE_G
-  }
+  assembled_aoh = {DON-G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G}
 end
 
 def literal_aoh
